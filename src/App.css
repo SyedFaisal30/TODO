@@ -1,0 +1,19 @@
+input{
+  width: 100%;
+}
+.kg-button{
+  min-width: 80px;
+}
+.kg-row{
+  margin: 10px 5px;
+}
+.contain{
+  background-color: bisque;
+  border: 10px solid black;
+  border-radius: 5vh;
+  border-style: double;
+  margin: 5vh;
+  margin-left: 25%;
+  width: 50%;
+  left: 50%;
+}
